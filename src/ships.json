@@ -1,0 +1,11 @@
+{
+  "battleship": {
+    "size": 5
+  },
+  "destroyer1": {
+    "size": 4
+  },
+  "destroyer2": {
+    "size": 4
+  }
+}
